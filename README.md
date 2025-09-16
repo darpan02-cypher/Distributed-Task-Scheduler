@@ -2,7 +2,7 @@
 
 
 
-### **Case Study: Distributed Task Scheduler**
+### **Case Study:**
 
 #### **Executive Summary**
 Designed and implemented a high-performance, distributed background job processing system to solve the problem of handling long-running and asynchronous operations in a scalable and resilient manner. The system decouples task submission from execution, allowing main application threads to respond quickly while ensuring tasks are processed reliably across multiple worker nodes. This architecture is a foundational component of modern microservices, similar to systems like AWS Step Functions or Google Cloud Tasks.
