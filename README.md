@@ -1,8 +1,6 @@
 # Distributed-Task-Scheduler
 
-Of course. Here is a detailed case study for your Distributed Task Scheduler project. This format is perfect for your resume, LinkedIn, and portfolio site as it tells a compelling story about your technical and problem-solving skills.
 
----
 
 ### **Case Study: Distributed Task Scheduler**
 
@@ -83,17 +81,3 @@ sequenceDiagram
 
 #### **Lessons Learned**
 This project provided deep, hands-on experience with the challenges of distributed systems, including concurrency, state management, and message-based communication. It solidified understanding of how to use databases and queues together to build reliable systems and highlighted the importance of idempotency and careful logging in a microservices environment.
-
----
-
-### **How to Use This Case Study:**
-
-1.  **On Your Resume:** Include a "Projects" section and use 2-3 bullet points **summarizing** this case study. Focus on the *what* and the *impact*.
-    *   *"Engineered a distributed task scheduler using Java/Spring Boot to decouple and reliably process background jobs, implementing Redis for messaging and idempotent workers with retry logic."*
-    *   *"Designed to solve performance bottlenecks from synchronous processing, enabling horizontal scaling and improving theoretical system throughput."*
-
-2.  **In Your GitHub README:** Place this full case study at the top of your project's `README.md` file. It provides incredible context.
-
-3.  **In Interviews:** This case study gives you stories to tell. You can walk an interviewer through the problem, your architectural choices, the challenges you faced, and how you solved them. It demonstrates far more skill than a simple tutorial-based project.
-
-This project and its accompanying case study will make your profile extremely strong for any backend or software engineering role. Ready to continue building it?
